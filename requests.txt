@@ -1,0 +1,6 @@
+mnemonic
+requests
+datetime
+uuid
+psutil
+logging

@@ -1,0 +1,35 @@
+(lp0
+(dp1
+VPlatform
+p2
+VWindows 10
+p3
+sVArchitecture
+p4
+VAMD64
+p5
+sVProcessor
+p6
+VIntel64 Family 6 Model 23 Stepping 10, GenuineIntel
+p7
+sVMac addres
+p8
+V00:1d:7d:05:c0:e7
+p9
+sVRAM
+p10
+V4 GB
+p11
+sVHost IP Addres
+p12
+V46.172.85.236
+p13
+sVRegion Name
+p14
+VKharkiv
+p15
+sVZip
+p16
+V61045\U0001f1fa\U0001f1e6
+p17
+sa.
